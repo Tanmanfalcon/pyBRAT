@@ -4,7 +4,7 @@ import os
 arcpy.CheckOutExtension('Spatial')
 
 # path to landuse raster
-landuse = r"C:\xxx\01_Inputs\05_Conflict\05_Land_Use\Land_Use_1\us_140evt.tif"
+landuse = r"C:\Users\A02047723\Documents\ArcGIS\White_River\BRAT\Tanner_BRAT\Inputs\US_200BPS\US_200EVT\US_200EVT.tif"
 
 def main():
 
